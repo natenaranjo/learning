@@ -1,4 +1,4 @@
-# learning
+# Learning
 Learning how to code from different sources.
 ---
 # Sites currently Learning from:
